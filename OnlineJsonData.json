@@ -58,62 +58,6 @@
       "title" : "Tips title 1",
       "description" : "",
       "written" : "Tips written 1"
-    },
-    {
-      "id" : 2,
-      "imageURL" : "https://dadamou.github.io/videoleap/screen-1.png",
-      "state" : "free",
-      "title" : "Tips title 2",
-      "description" : "",
-      "written" : "Tips written 2"
-    },
-    {
-      "id" : 3,
-      "imageURL" : "https://dadamou.github.io/videoleap/screen-1.png",
-      "state" : "free",
-      "title" : "Tips title 3",
-      "description" : "",
-      "written" : "Tips written 3"
-    },
-    {
-      "id" : 4,
-      "imageURL" : "https://dadamou.github.io/videoleap/screen-1.png",
-      "state" : "free",
-      "title" : "Tips title 4",
-      "description" : "",
-      "written" : "Tips written 4"
-    },
-    {
-      "id" : 5,
-      "imageURL" : "https://dadamou.github.io/videoleap/screen-1.png",
-      "state" : "free",
-      "title" : "Tips title 5",
-      "description" : "",
-      "written" : "Tips written 5"
-    },
-    {
-      "id" : 6,
-      "imageURL" : "https://dadamou.github.io/videoleap/screen-1.png",
-      "state" : "free",
-      "title" : "TTips 6",
-      "description" : "",
-      "written" : "Tips written 6"
-    },
-    {
-      "id" : 7,
-      "imageURL" : "https://dadamou.github.io/videoleap/screen-1.png",
-      "state" : "vip",
-      "title" : "Test title 7",
-      "description" : "",
-      "written" : "Test written 7"
-    },
-    {
-      "id" : 8,
-      "imageURL" : "https://dadamou.github.io/videoleap/screen-1.pngU",
-      "state" : "vip",
-      "title" : "Test title 8",
-      "description" : "",
-      "written" : "Test written 8"
     }
   ]
 }
