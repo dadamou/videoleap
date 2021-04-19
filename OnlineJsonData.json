@@ -16,9 +16,9 @@
       "appodeal_app_key" : ""
     },
     "facebook" : {
-      "facebook_banner_id" : "IMG_16_9_APP_INSTALL",
-      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL",
-      "facebook_native_id" : "IMG_16_9_APP_INSTALL"
+      "facebook_banner_id" : "IMG_16_9_APP_INSTALL#803174023911955_807606280135396",
+      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#803174023911955_807606643468693",
+      "facebook_native_id" : "IMG_16_9_APP_INSTALL#803174023911955_807606963468661"
     },
     "mode_ads_banner" : "admob",
     "mode_ads_interstitial" : "admob",
@@ -47,15 +47,15 @@
       "id" : 0,
       "imageURL" : "https://dadamou.github.io/videoleap/screen-1.png",
       "state" : "free",
-      "title" : "Tips",
+      "title" : "About Video Leap",
       "description" : "",
-      "written" : "Tips written 0 <br>My written"
+      "written" : "Videoleap is a fun & powerful video editing app. Combine clips, add text & artistic effects, and edit videos on your iPhone & iPad. Start making amazing movies today."
     },
     {
       "id" : 1,
       "imageURL" : "https://dadamou.github.io/videoleap/screen-1.png",
       "state" : "free",
-      "title" : "Tips title 1",
+      "title" : "Features Videoleap",
       "description" : "",
       "written" : "Tips written 1"
     }
