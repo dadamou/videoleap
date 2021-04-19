@@ -57,7 +57,63 @@
       "state" : "free",
       "title" : "Features Videoleap",
       "description" : "",
-      "written" : "Tips written 1"
+      "written" : "<p>Discover how fun and easy it is to create high-quality videos with Videoleap by Lightricks!</p><p><br></p><p>Whether you want to make artistic, Hollywood-level films or simply share memories and funny moments with friends, Videoleap is a breakthrough video editor just for you.</p><p><br></p><p>Movie-making pros can take advantage of powerful high-end editing features. Beginners and casual users will have fun cutting and combining clips simply, intuitively, and on the go. Edit movies or create videos for Instagram with pro-quality video editing tools. Add video effects, sounds effects, filters, green screen, and more to create beautiful movies.</p>"
+    },
+    {
+    "id" : 2,
+      "imageURL" : "https://dadamou.github.io/videoleap/screen-1.png",
+      "state" : "free",
+      "title" : "Movie Editing Tools",
+      "description" : "",
+      "written" : "<p>&bull; Keyframe animations.</p><p>&bull; Green screen/chroma key compositing.</p><p>&bull; Fit video clips to format - place clips on blank or colored canvas.</p><p>&bull; Non-destructive video editing.</p><p>&bull; Unlimited undo/redo.</p><p>&bull; Intuitive timeline with zoom for frame by frame precision.</p>"
+    }, 
+    {
+    "id" : 3,
+      "imageURL" : "https://dadamou.github.io/videoleap/screen-1.png",
+      "state" : "free",
+      "title" : "Video Special Effects:",
+      "description" : "",
+      "written" : "<p><br></p><p>&bull; Prism, Defocus, Colorfy, Pixelate, Chromatic Aberration, and more!</p><p>&bull; Text: a variety of fonts, emojis, shadow, colors, opacity, and blending.</p><p>&bull; Unique, adjustable film filters for every moment.</p>"
+    }, 
+    {
+    "id" : 4,
+      "imageURL" : "https://dadamou.github.io/videoleap/screen-1.png",
+      "state" : "free",
+      "title" : "Creative Cinematic Compositions",
+      "description" : "",
+      "written" : "<p>&bull; Mix videos &amp; images together to create double exposures and artistic looks.&nbsp;</p><p>&bull; Layer-based editing! Add videos, effects, text, and images then reorder them however you like.&nbsp;</p><p>&bull; Customize layers with transformation, masking, and blending modes.&nbsp;</p><p>&bull; Apply seamless, cinematic transitions to your clips.</p>"
+    }, 
+    {
+    "id" : 5,
+      "imageURL" : "https://dadamou.github.io/videoleap/screen-1.png",
+      "state" : "free",
+      "title" : "Precise Video Editing & Rich Possibilities",
+      "description" : "",
+      "written" : "<p>&bull; Clip editing: trim, split, duplicate, flip, mirror, transform.</p><p>&bull; Color correction: adjust brightness, contrast, saturation and more.</p><p>&bull; Change aspect ratio and fit clips automatically.</p><p>&bull; Customize the color of your background.</p>"
+    }, 
+    {
+    "id" : 6,
+      "imageURL" : "https://dadamou.github.io/videoleap/screen-1.png",
+      "state" : "free",
+      "title" : "Sound Editing",
+      "description" : "",
+      "written" : "<p>&bull; Over 100 sound effects!</p><p>&bull; Dub audio and voice overs</p><p>&bull; Control audio volume and apply equalizer presets.</p>"
+     }, 
+    {
+    "id" : 7,
+      "imageURL" : "https://dadamou.github.io/videoleap/screen-1.png",
+      "state" : "free",
+      "title" : "And More!",
+      "description" : "",
+      "written" : "<p><br></p><p>&bull; In-app stock footage, including green videos and overlays!</p><p>&bull; Helpful mini-tutorials within each feature.</p><p>&bull; Projects are auto-saved. Work on them whenever, wherever.</p><p>&bull; Preview your work with full screen.</p><p><br></p><p>Download Videoleap now and wow your followers with the videos you&rsquo;ll create and edit on your Phone!</p>"
+  }, 
+    {
+    "id" : 8,
+      "imageURL" : "https://dadamou.github.io/videoleap/screen-1.png",
+      "state" : "free",
+      "title" : "Unlimited Access Subscription",
+      "description" : "",
+      "written" : "<p>- You can subscribe for unlimited access to all features and content offered for purchase within Videoleap.&nbsp;</p><p>- Subscriptions are billed monthly or annually at the rate selected depending on the subscription plan. Alternatively, a one-time payment plan is available (this is not a subscription).&nbsp;</p><p>- Subscriptions auto-renew at the cost of the chosen package, unless canceled 24-hours in advance prior to the end of the current period. The subscription fee is charged to your iTunes account at confirmation of purchase. You may manage your subscription and turn off auto-renewal by going to your Account Settings after purchase. Per Apple policy, no cancellation of the current subscription is allowed during the active subscription period. Once purchased, refunds will not be provided for any unused portion of the term. - If eligible for a free trial and you subscribe before your free trial ends, the rest of your free trial period will be forfeited as soon as your purchase is confirmed. Subscriptions will start immediately after the free trial ends unless canceled at least 24 hours prior to the end of the trial period.</p>"
     }
   ]
 }
