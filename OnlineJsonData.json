@@ -6,7 +6,7 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-9565218898651576/8866204609",
+      "admob_banner_id" : "",
       "admob_interstitial_id" : "ca-app-pub-9565218898651576/5960839668",
       "admob_native_id" : "ca-app-pub-9565218898651576/7082349645",
       "admob_rewarded_id" : "ca-app-pub-9565218898651576/2248346433",
@@ -20,7 +20,7 @@
       "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#803174023911955_807606643468693",
       "facebook_native_id" : "IMG_16_9_APP_INSTALL#803174023911955_807606963468661"
     },
-    "mode_ads_banner" : "0",
+    "mode_ads_banner" : "admob",
     "mode_ads_interstitial" : "admob",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "0",
