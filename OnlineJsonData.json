@@ -16,12 +16,12 @@
       "appodeal_app_key" : ""
     },
     "facebook" : {
-      "facebook_banner_id" : "IMG_16_9_APP_INSTALL#803174023911955_807606280135396",
-      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#803174023911955_807606643468693",
-      "facebook_native_id" : "IMG_16_9_APP_INSTALL#803174023911955_807606963468661"
+      "facebook_banner_id" : "944760686266580_952442518831730",
+      "facebook_interstitial_id" : "944760686266580_952442885498360",
+      "facebook_native_id" : "944760686266580_952443022165013"
     },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
+    "mode_ads_banner" : "facebook",
+    "mode_ads_interstitial" : "facebook",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "0",
     "mode_button_ads_action" : "https://play.google.com/store/apps/details?id=com.nicooapp.anaikousnicoofire",
